@@ -15,3 +15,5 @@ Pada stage ini, kami melakukan pembentukan model, dalam modelling ini kami melak
 * Membuat reminder via email, Whatsapp atau SMS H-1 sebelum check in hotel 
 * Partnership dengan travel agent, agar penjualan hotel yang tercancel lebih cepat 
 * Partnership dengan hotel sekitar, untuk saling memberikan rekomendasi. Jika salah satu hotel full, dan di hotel lain masih tersedia kamar, maka akan diarahkan untuk booking di hotel partner.
+4. Stage 4
+Stage ini merupakan tahapan dan stage terakhir setelah semua yang kami lakukan dari stage 1. Setelah semua tahapan sudah kami lakukan, kami akan melalukan presentasi mengenai data set hotel booking cancellation ini. Disini pada data set ini posisi dari tim kami adalah sebagai data analyst yang bertugas untuk memprediksi cancelation di hotel serta memberikan rekomendasi bisnis untuk mengurangi tingkat cancellation pada hotel. Pada saat presentasi kami menjelaskan berbagai hal terkait analisis data set, hasil analisa, pembuatan model machine learning, serta rekomendasi bisnis.
